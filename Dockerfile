@@ -1,3 +1,4 @@
+#
 FROM java:8
 MAINTAINER Luis Arias <luis@balsamiq.com>
 
